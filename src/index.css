@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.rvBg {
+    background-image: url('./assets/images/counter-banner.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: gray;
+    background-blend-mode: multiply;
+    
+    
+}
+
