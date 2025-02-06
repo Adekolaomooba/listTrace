@@ -19,12 +19,12 @@ function App() {
       <HeroPanel/>
       <HowItWorks/>
       <Explore/>
-      <ClientsRiview/>
+      <ClientsRiview/> 
       <NewsArticle/>
       <SignUp/>
       <FooterMenu/>
       <FooterArea/>
-      
+      {/* bvgtftcfvybugnmhuhgt */}
     </div>
     </>
   )

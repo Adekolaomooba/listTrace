@@ -11,6 +11,7 @@ const FooterArea = () => {
                         <p className=" pi pi-phone hover:text-[#ff575d] "></p>
                         <p className="  txt-lg hover:text-[#ff575d]  "> +1 (222) 777 8888</p>
                     </div>
+                    
                     <p className=" pi pi-facebook p-3 rounded-full bg-gray-200 hover:bg-[#ff575d] hover:text-white "></p>
                     <p className=" pi pi-twitter p-3 rounded-full bg-gray-200 hover:bg-[#ff575d] hover:text-white "></p>
                     <p className=" pi pi-linkedin p-3 rounded-full bg-gray-200 hover:bg-[#ff575d] hover:text-white "></p>

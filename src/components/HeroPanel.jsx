@@ -30,7 +30,7 @@ function HeroPanel(){
                             items-center ">
                 <h1 className=" block w-[70%] text-center text-[white] text-5xl 
                                 uppercase font-bold leading-[70px] mt-[130px] ">
-                    best place to find and explore that all you need
+                    best place 
                 </h1>
                 <p className=" block w-full text-center text-[white] text-2xl ">
                     Find Best Place, Restaurant, Hotel, Real State and 
