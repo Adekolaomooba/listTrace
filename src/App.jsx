@@ -24,7 +24,6 @@ function App() {
       <SignUp/>
       <FooterMenu/>
       <FooterArea/>
-      bvgtftcfvybugnmhuhgt
     </div>
     </>
   )
