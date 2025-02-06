@@ -5,7 +5,7 @@ import HowItWorks from './components/HowItWorks'
 import Explore from './components/Explore'
 import ClientsRiview from './components/ClientsReviews'
 import NewsArticle from './components/NewsArticle'
-import SignUp from './components/SignUp'
+import SignUp from './components/signUp'
 import FooterMenu from './components/FooterMenu'
 import FooterArea from './components/FooterArea'
 
@@ -24,7 +24,7 @@ function App() {
       <SignUp/>
       <FooterMenu/>
       <FooterArea/>
-      {/* bvgtftcfvybugnmhuhgt */}
+      bvgtftcfvybugnmhuhgt
     </div>
     </>
   )
